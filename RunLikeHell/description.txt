@@ -1,0 +1,1 @@
+This program considers a sequence of blocks that each contain a number and will select the ones that will maximize the sum at the end, under the limitation that two consecutive blocks cannot both be chosen.

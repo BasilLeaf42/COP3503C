@@ -1,0 +1,1 @@
+This program determines how many "topopaths" there are in a given graph. Here, a "topopath" is an ordering of vertices that simultaneously corresponds to a valid path in a graph and a valid topological sort.

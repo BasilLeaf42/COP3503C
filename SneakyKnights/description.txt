@@ -1,0 +1,1 @@
+This program checks whether or not knights on a chessboard are under attack from one another.
